@@ -1,14 +1,14 @@
 ## react and mysql
 ### Project Setup: Creating Application Folders and Initializing the Project
-(__creat package.json in server file__)
-use this commande
+(__creat package.json in server file__).
+use this commande.
   npm init -y
-add thos lines to script in **packege.json**
+add thos lines to script in **packege.json**.
   "start": "node server.js",
   "dev": "nodemon server.js"
-change main file 
+change main file .
   "main": "index.js", 
-to 
+to .
   "main": "server.js",
-then install mysql 
+then install mysql. 
   npm install express mysql cors nodemon

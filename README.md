@@ -1,5 +1,5 @@
-##react and mysql
-###Project Setup: Creating Application Folders and Initializing the Project
+## react and mysql
+### Project Setup: Creating Application Folders and Initializing the Project
 (__creat package.json in server file__)
 use this commande
   npm init -y

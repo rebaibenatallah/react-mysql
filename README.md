@@ -3,6 +3,8 @@
 (__creat package.json in server file__) .
 use this commande .
     npm init -y
+add this line in ** packege.json**
+    "type": "module",
 add thos lines to script in **packege.json** .
     "start": "node server.js",
     "dev": "nodemon server.js"
@@ -10,5 +12,5 @@ change main file .
     "main": "index.js", 
 to .
     "main": "server.js",
-then install mysql. 
+then install mysql in **servr** file. 
     npm install express mysql cors nodemon
